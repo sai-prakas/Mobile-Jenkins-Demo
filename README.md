@@ -13,7 +13,7 @@ This is a simple Node.js application.
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:sai-prakas/simple-node-app.git
+    git clone https://github.com/sai-prakas/Mobile-Jenkins-Demo.git
     ```
 
 2. Install dependencies:
